@@ -14,3 +14,5 @@ for letter in secret_word:
         print("Right")
     else:
         print("Wrong")
+
+print("this is my first project")
