@@ -1,6 +1,5 @@
 import random
 
-
 print("Welcome to the guessing Game")
 
 
