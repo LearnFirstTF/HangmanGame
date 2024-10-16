@@ -17,3 +17,4 @@ for letter in secret_word:
 
 print("this is my first project")
 print("This is my first pull")
+print("practicing merge")
